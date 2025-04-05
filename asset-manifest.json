@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactKochiLab/static/css/main.964fdded.css",
+    "main.js": "/ReactKochiLab/static/js/main.cb1fecc9.js",
+    "static/js/453.91fc303d.chunk.js": "/ReactKochiLab/static/js/453.91fc303d.chunk.js",
+    "index.html": "/ReactKochiLab/index.html",
+    "main.964fdded.css.map": "/ReactKochiLab/static/css/main.964fdded.css.map",
+    "main.cb1fecc9.js.map": "/ReactKochiLab/static/js/main.cb1fecc9.js.map",
+    "453.91fc303d.chunk.js.map": "/ReactKochiLab/static/js/453.91fc303d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.cb1fecc9.js"
+  ]
+}
